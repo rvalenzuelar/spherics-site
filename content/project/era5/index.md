@@ -4,5 +4,5 @@ summary: ERA5 is the fifth generation ECMWF reanalysis for the global climate an
 tags:
   - ERA5
 date: 2022-01-01
-external_link: https://docs.xarray.dev/en/stable/
+external_link: https://cds.climate.copernicus.eu/#!/home
 ---

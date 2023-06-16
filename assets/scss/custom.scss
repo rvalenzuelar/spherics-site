@@ -27,6 +27,13 @@ p {
     margin-top: 10rem;
 }
 
+.hero-media img{
+    border-radius: 50%;
+    width: 600px;
+    height: 600px;
+    object-fit: cover;
+}
+
 .section-heading p{
     text-align: center;
     margin-right: 0rem;
