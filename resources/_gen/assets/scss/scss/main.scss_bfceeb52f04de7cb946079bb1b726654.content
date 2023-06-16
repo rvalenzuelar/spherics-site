@@ -9673,11 +9673,6 @@ div.chart {
 .cta-group {
   justify-content: center; }
 
-p {
-  margin-top: 2rem;
-  margin-right: 10rem;
-  margin-bottom: 1rem; }
-
 .hero-lead {
   background-color: rgba(173, 36, 36, 0);
   margin-top: 0rem;
@@ -9691,7 +9686,7 @@ p {
   font-size: 1.2rem; }
 
 .hero-media {
-  margin-top: 10rem; }
+  margin-top: 7rem; }
 
 .hero-media img {
   border-radius: 50%;
