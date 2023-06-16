@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        Spherics-Lab focuses on using computational tools to study atmospheric, meteorological and climatological phenomena. We work gathering data from automatic weather stations and remote-sensed instruments from satellite and ground-based platforms. Also, we run state-of-the-art numerical simulation models and use model outputs from other research groups. The Spherics-Lab aims to understand global and local patterns in the atmospheric system linked to current and future Earth climate. 
+        Spherics-Lab focuses on using computational tools to study atmospheric, meteorological and climatological phenomena. We work with data from automatic weather stations and remote-sensed instruments from satellite and ground-based platforms. Also, we run state-of-the-art numerical simulation models and use model outputs from other research groups. The Spherics-Lab aims to understand global and local patterns in the atmospheric system linked to current and future Earth climate. 
   
   # - block: collection
   #   content:
