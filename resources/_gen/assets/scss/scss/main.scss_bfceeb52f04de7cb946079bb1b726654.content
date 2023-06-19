@@ -9673,17 +9673,20 @@ div.chart {
 .cta-group {
   justify-content: center; }
 
+.hero-title {
+  font-size: 2rem; }
+
 .hero-lead {
   background-color: rgba(173, 36, 36, 0);
   margin-top: 0rem;
-  border: 0rem; }
+  border: 0rem;
+  font-size: 1.2rem; }
 
 .hero-lead p {
   background-color: white;
   margin-top: 0rem;
   margin-right: 2rem;
-  border: 0rem;
-  font-size: 1.2rem; }
+  border: 0rem; }
 
 .hero-media {
   margin-top: 7rem; }
