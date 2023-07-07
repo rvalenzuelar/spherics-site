@@ -17,6 +17,7 @@ sections:
         * [Climatematch Academy](https://academy.climatematch.io)
         * [Dask Choosing Chunk Size](https://blog.dask.org/2021/11/02/choosing-dask-chunk-sizes)
         * [Dask Best Practices](https://docs.dask.org/en/stable/best-practices.html)
+        * [Australian CLEX](https://climateextremes.org.au)
         
     design:
       columns: '1'
