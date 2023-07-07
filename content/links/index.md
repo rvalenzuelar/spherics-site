@@ -15,6 +15,7 @@ sections:
         * [Earth Lab University of Colorado](https://earthlab.colorado.edu)
         * [DKRZ Paraview](https://docs.dkrz.de/doc/visualization/sw/paraview/index.html#fe06468cb534a0c98b0dd761838f62b-paraview-1)
         * [Climatematch Academy](https://academy.climatematch.io)
+        * [Choosing Dask Chunk Size](https://blog.dask.org/2021/11/02/choosing-dask-chunk-sizes)
         
     design:
       columns: '1'
