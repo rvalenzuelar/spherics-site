@@ -14,6 +14,7 @@ sections:
         * [Earth Data Science University of Colorado](https://www.earthdatascience.org)
         * [Earth Lab University of Colorado](https://earthlab.colorado.edu)
         * [DKRZ Paraview](https://docs.dkrz.de/doc/visualization/sw/paraview/index.html#fe06468cb534a0c98b0dd761838f62b-paraview-1)
+        * [Climatematch Academy](https://academy.climatematch.io)
         
     design:
       columns: '1'
