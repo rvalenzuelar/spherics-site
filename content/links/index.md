@@ -18,6 +18,7 @@ sections:
         * [Dask Choosing Chunk Size](https://blog.dask.org/2021/11/02/choosing-dask-chunk-sizes)
         * [Dask Best Practices](https://docs.dask.org/en/stable/best-practices.html)
         * [Australian CLEX](https://climateextremes.org.au)
+        * [An Introduction to Statistical Learning](https://hastie.su.domains/ISLP/ISLP_website.pdf)
         
     design:
       columns: '1'
