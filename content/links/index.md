@@ -20,6 +20,7 @@ sections:
         * [Australian CLEX](https://climateextremes.org.au)
         * [An Introduction to Statistical Learning](https://hastie.su.domains/ISLP/ISLP_website.pdf)
         * [Project Pythia](https://projectpythia.org)
+        * [Earth Models](https://www.earthmodels.org)
         
     design:
       columns: '1'
