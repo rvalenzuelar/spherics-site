@@ -19,6 +19,7 @@ sections:
         * [Dask Best Practices](https://docs.dask.org/en/stable/best-practices.html)
         * [Australian CLEX](https://climateextremes.org.au)
         * [An Introduction to Statistical Learning](https://hastie.su.domains/ISLP/ISLP_website.pdf)
+        * [Project Pythia](https://projectpythia.org)
         
     design:
       columns: '1'
