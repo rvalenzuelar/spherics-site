@@ -23,6 +23,7 @@ sections:
         * [Project Pythia](https://projectpythia.org)
         * [Earth Models](https://www.earthmodels.org)
         * [Integration of ParaView Catalyst with Regional Earth System Model](https://www.kitware.com/integration-of-paraview-catalyst-with-regional-earth-system-model/)
+        * [KITWARE A new Embossing Representations Plugin for ParaView](https://www.kitware.com/a-new-embossing-representations-plugin-for-paraview/)
         
     design:
       columns: '1'
