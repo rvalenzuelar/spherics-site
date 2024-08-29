@@ -15,6 +15,7 @@ sections:
           - Researchers
           - Undergrad Students
           - Research Assistants
+          - Past Research Assistants
           - Grad Students
           - Administration
           - Visitors

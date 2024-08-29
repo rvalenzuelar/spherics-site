@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Andrea Bulnes
+title: Samara Gonzalez
 
 # Full Name (for SEO)
-first_name: Andrea
-last_name: Bulnes
+first_name: Samara
+last_name: Gonzalez
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Civil Industrial Engineer 
+role: Civil Geological Engineer 
 
 # Organizations/Affiliations
 organizations:
@@ -71,8 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Undergrad Students
 ---
 
-
-Andrea graduated from Civil Industrial Engineering. She developed a method for exploration and validation of a national emission inventory documented in Alamos et al. (2022, INEMA).
+Samara is studying the chemical composition and physical characteristics of particulate matter collected in a high-vol during spring of 2023 in Rancagua. She will also examine meteorological data to propose possible emission sources.
