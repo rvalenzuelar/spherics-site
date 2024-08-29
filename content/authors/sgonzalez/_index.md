@@ -74,4 +74,4 @@ user_groups:
   - Undergrad Students
 ---
 
-Samara is studying the chemical composition and physical characteristics of particulate matter collected in a high-vol during spring of 2023 in Rancagua. She will also examine meteorological data to propose possible emission sources.
+Samara is studying the chemical composition and physical characteristics of particulate matter collected in a high-vol sampler during spring of 2023 in Rancagua. She will also examine meteorological data to propose possible emission sources.
