@@ -74,4 +74,4 @@ user_groups:
   - Alumni
 ---
 
-Anibal graduted from the Civil Engineer program at UOH. He developed a low-cost weather station using an Arduino-based platform.
+Anibal graduted from the Civil Electrical Engineering program at UOH. He developed a low-cost weather station using an Arduino-based platform.
