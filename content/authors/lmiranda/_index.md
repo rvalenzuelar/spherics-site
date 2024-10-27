@@ -73,5 +73,5 @@ highlight_name: false
 user_groups:
   - Past Research Assistants
 ---
-
+Luis worked with satellite data from the GPM mission. He applied parallel computing techniques to interpolate raw GPM observations into a regular global grid in an efficient way.
 
