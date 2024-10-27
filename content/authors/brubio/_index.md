@@ -74,4 +74,4 @@ user_groups:
   - Research Assistants
 ---
 
-Bastian is assisting work related to Fondecyt Iniciacion grant. He is applying data exploration techniques to determine association between water vapor variability and precipitation traces at different temporal scales.
+Bastian is assisting with work related to a Fondecyt Iniciacion grant. He is applying data exploration techniques to determine nearest GNSS location to meteorological stations. He is also exploring the association between water vapor variability and precipitation traces at annual and monthly scales using Pandas. 
