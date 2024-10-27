@@ -71,7 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistant
+  - Research Assistants
 ---
 
 Bastian is assisting work related to Fondecyt Iniciacion grant. He is applying data exploration techniques to determine association between water vapor variability and precipitation traces at different temporal scales.
