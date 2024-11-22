@@ -9,7 +9,7 @@ Spherics-Lab busca un estudiante para trabajar en alguno de estos temas bajo la 
 
 * Entender el comportamiento del vapor de agua atmosférico y la lluvia en Rancagua partir de observaciones GPS.
 * Estudiar Ríos Atmosféricos en el futuro a partir de proyecciones climáticas en CMIP6.
-* Constrastar datos de radar perfilador de precipitaciones MRR en Rancagua con reanálisis ERA5.
+* Contrastar datos de radar perfilador de precipitaciones MRR en Rancagua con reanálisis ERA5.
 
 Pueden postular: 
 * estudiantes que hayan cursado al menos 2 semestres de su carrera
