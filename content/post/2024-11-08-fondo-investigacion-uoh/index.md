@@ -15,7 +15,9 @@ Pueden postular:
 * estudiantes que hayan cursado al menos 2 semestres de su carrera
 * estudiantes que se encuentren en etapas anteriores al proceso de titulación
 
-El trabajo se deberá desarrollar durante enero de 2025. Se considera un pago único de $200.000 una vez aprobado el informe final.
+Como requisito adicional los/as estudiantes deberán tener habilidad de programación con Python e interés en la exploración y visualización de datos.
+
+El trabajo se deberá desarrollar durante enero de 2025. Se considera un pago único de $200.000 una vez aprobado el informe final. Más información en el bases del concurso [aquí]({{< ref "./content/post/2024-11-08-fondo-investigacion-uoh" >}} )
 
 Interesados/as escribir email a raul.valenzuela@uoh.cl indicando tema de interés, carrera y motivación.
 
