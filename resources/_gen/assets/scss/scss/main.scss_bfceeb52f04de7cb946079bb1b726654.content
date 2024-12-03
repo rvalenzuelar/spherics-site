@@ -9674,13 +9674,13 @@ div.chart {
   justify-content: center; }
 
 .hero-title {
-  font-size: 2rem; }
+  font-size: 1.5rem; }
 
 .hero-lead {
   background-color: rgba(173, 36, 36, 0);
   margin-top: 0rem;
   border: 0rem;
-  font-size: 1.2rem; }
+  font-size: 1.0rem; }
 
 .hero-lead p {
   background-color: white;
@@ -9693,10 +9693,10 @@ div.chart {
 
 .hero-media img {
   border-radius: 50%;
-  width: 600px;
-  height: 600px;
-  object-fit: cover; }
+  width: 400px;
+  height: 400px;
+  object-fit: fill; }
 
 .section-heading p {
-  text-align: center;
+  text-align: left;
   margin-right: 0rem; }

@@ -1,18 +1,18 @@
 ---
-title: Tools
+title: Data
 type: landing
 
 sections:
   - block: portfolio
     id: projects
     content:
-      title: Tools
-      subtitle: Spherics-Lab makes extensive use of the following toolset
+      title: Data
+      subtitle: Spherics-Lab has experience in using the following datasets
     #   text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
       filters:
         # Folders to display content from
         folders:
-          - toolset
+          - dataset
         # Only show content with these tags
         tags: []
         # Exclude content with these tags
