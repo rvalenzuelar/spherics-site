@@ -1,12 +1,24 @@
 ---
-title: "Taller CR2: Exploración de Datos ERA5 y CMIP6 con Python"
+title: "Concurso Fondo Investigación para Estudiantes de Pregrado UOH"
 date: 2024-11-08
 ---
 
-El Centro de Ciencia del Clima y la Resiliencia ([CR2](https://www.cr2.cl)) realizó el pasado 21 de noviembre el taller "Exploración de Datos ERA5 y CMIP6 con Python". La iniciativa se llevó a cabo mediante Zoom y contó con la participación de cerca de 30 estudiantes de pre y postgrado de distintas universidad del país.  
+Se encuentra abierta la III Convocatoria del Fondo de Investigación para Estudiantes de Pregrado UOH, iniciativa de la Dirección de Investigación, Vicerrectoría de Investigación y Postgrado, cuyo objetivo es promover que estudiantes de pregrado adquieran, en el marco de su formación universitaria, competencias asociadas a una experiencia en investigación a través del desarrollo de actividades propias de este ámbito, bajo la supervisión de un/a investigador/a adscrito/a a alguno de los Institutos (académico/a y/o postdoctorante). 
 
+Spherics-Lab busca un estudiante para trabajar en alguno de estos temas bajo la tutela del profesor Raúl Valenzuela:
 
-{{< youtube cKwD7UMmz84 >}}
+* Entender el comportamiento del vapor de agua atmosférico y la lluvia en Rancagua partir de observaciones GPS.
+* Estudiar Ríos Atmosféricos en el futuro a partir de proyecciones climáticas en CMIP6.
+* Contrastar datos de radar perfilador de precipitaciones MRR en Rancagua con reanálisis ERA5.
 
+Pueden postular: 
+* estudiantes que hayan cursado al menos 2 semestres de su carrera
+* estudiantes que se encuentren en etapas anteriores al proceso de titulación
 
+Como requisito adicional los/as estudiantes deberán tener habilidad de programación con Python e interés en la exploración y visualización de datos.
+
+El trabajo se deberá desarrollar durante enero de 2025. Se considera un pago único de $200.000 una vez aprobado el informe final. Más información en las bases del concurso:
+[link](./Bases-Fondo-Investigación-Pregrado-2025.pdf)
+
+Interesados/as escribir email a raul.valenzuela@uoh.cl indicando tema de interés, carrera y motivación para trabajar en dicho tema.
 
