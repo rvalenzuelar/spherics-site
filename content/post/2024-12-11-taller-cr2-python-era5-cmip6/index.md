@@ -7,14 +7,14 @@ El Centro de Ciencia del Clima y la Resiliencia ([CR2](https://www.cr2.cl)) real
 
 Puedes acceder al video del taller más abajo, el que aborda el siguiente contenido:
 
-04:37 Mentimeter
-08:55 Python, Matplotlib y Xarray
-15:31 Micromamba y Pip
-22:32 Sobre ERA5
-26:29 Sobre CMIP6
-33:53 Instalación de micromamba y librerías
-50:35 Exploración de ERA5
-01:27:45 Exploración de CMIP6
+* 04:37 Mentimeter
+* 08:55 Python, Matplotlib y Xarray
+* 15:31 Micromamba y Pip
+* 22:32 Sobre ERA5
+* 26:29 Sobre CMIP6
+* 33:53 Instalación de micromamba y librerías
+* 50:35 Exploración de ERA5
+* 01:27:45 Exploración de CMIP6
 
 {{< youtube cKwD7UMmz84 >}}
 
