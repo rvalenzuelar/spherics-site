@@ -10,7 +10,7 @@ last_name: Guerrero
 superuser: false
 
 # Role/position
-role: Civil Industrial Engineer 
+role: Civil Mechanical Engineer 
 
 # Organizations/Affiliations
 organizations:
@@ -74,4 +74,4 @@ user_groups:
   - Undergrad Students
 ---
 
-Rodrigo is applying a bright band detection algorithm by [Garcia-Benadi et al (2021)](https://www.mdpi.com/2072-4292/13/21/4323) to MRR data captured in Rancagua and assesing its performance. He is also comparing with secondary sources, such as ERA5 reanalysis.
+Rodrigo is applying a bright band detection algorithm proposed by [Garcia-Benadi et al (2021)](https://www.mdpi.com/2072-4292/13/21/4323) to MRR data captured in Rancagua and assesing its performance. He is also comparing bright band height with secondary sources, such as ERA5 reanalysis.
