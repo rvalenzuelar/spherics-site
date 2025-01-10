@@ -71,7 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants
+  - Past Research Assistants
 ---
 
 Bastian is assisting with work related to a Fondecyt Iniciacion grant. He is applying data exploration techniques to determine nearest GNSS location to meteorological stations. He is also exploring the association between water vapor variability and precipitation traces at annual and monthly scales using Pandas. 
