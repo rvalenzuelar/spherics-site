@@ -1,0 +1,5 @@
+After installing micromamba, install the following packages:
+
+micromamba install python wrf-python matplotlib=3.8.0 salem pandas esmf numpy dask cartopy -c conda-forge
+pip install ipykernel metpy
+pip install git+https://github.com/cvanelteren/proplot.git@v0.9.91
