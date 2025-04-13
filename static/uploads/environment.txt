@@ -1,5 +1,15 @@
 After installing micromamba, install the following packages:
 
+Climlab environment
+====================
 micromamba install python wrf-python matplotlib=3.8.0 salem pandas esmf numpy dask cartopy -c conda-forge
+pip install ipython==8.14.0
 pip install ipykernel metpy
+pip install git+https://github.com/cvanelteren/proplot.git@v0.9.91
+
+MMD3201 environment
+===================
+micromamba install python matplotlib=3.8.0  pandas  numpy cartopy scipy -c conda-forge
+pip install ipython==8.14.0
+pip install ipykernel
 pip install git+https://github.com/cvanelteren/proplot.git@v0.9.91
