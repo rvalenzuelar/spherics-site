@@ -15,7 +15,7 @@ pip install git+https://github.com/cvanelteren/proplot.git@v0.9.91
 NeuralGCM environment
 ======================
 micromamba install python matplotlib=3.8.0  pandas  numpy cartopy scipy -c conda-forge
-pip install neuralgcm ipython==8.14.0 ipykernel
+pip install neuralgcm ipython==8.14.0 ipykernel gcsfs
 pip install git+https://github.com/cvanelteren/proplot.git@v0.9.91
 
 git clone git@github.com:jax-ml/jax.git
