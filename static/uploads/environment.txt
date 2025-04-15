@@ -17,6 +17,10 @@ NeuralGCM environment
 micromamba install python matplotlib=3.8.0  pandas  numpy cartopy scipy -c conda-forge
 pip install neuralgcm ipython==8.14.0 ipykernel
 pip install git+https://github.com/cvanelteren/proplot.git@v0.9.91
+
+From neuralgcm directory:
 python build/build.py build --wheels=jax-cuda-plugin,jax-cuda-pjrt --cuda_version=12.6.0 --clang_path=/usr/bin/clang —build_cuda_with_clang
+
+Then:
 pip install /mnt/beegfs/home/rvalenzuela/Github/jax/dist/jax_cuda12_pjrt-0.5.3.dev20250319-py3-none-manylinux2014_x86_64.whl --force-reinstall
 pip install -U "jax[cuda12]"
