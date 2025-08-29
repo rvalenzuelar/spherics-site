@@ -9695,7 +9695,8 @@ div.chart {
   border-radius: 50%;
   width: 400px;
   height: 400px;
-  object-fit: fill; }
+  object-fit: cover;
+  transform: scale(1.6); }
 
 .section-heading p {
   text-align: left;

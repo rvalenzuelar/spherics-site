@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Spherics Laboratory UOH
+      - title: Spheric Laboratory UOH
         content: Data sciences for the atmosphere and climate
         align: center
         background:
@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
        
-      - title: Spherics Laboratory UOH
+      - title: Spheric Laboratory UOH
         content: Data sciences for the atmosphere and climate
         align: center
         background:
@@ -30,17 +30,29 @@ sections:
           position: right
           color: '#666'
 
-      - title: Spherics Laboratory UOH
+      - title: Spheric Laboratory UOH
         content: Data sciences for the atmosphere and climate
         align: center
         background:
           image:
-            filename: climate_spiral.mp4
+            filename: output_mimic_31.png
             filters:
               brightness: 0.3
             fit: contain
           position: center
           color: '#666'
+
+      # - title: Spherics Laboratory UOH
+      #   content: Data sciences for the atmosphere and climate
+      #   align: center
+      #   background:
+      #     image:
+      #       filename: mimic_anim.mp4
+      #       filters:
+      #         brightness: 0.3
+      #       fit: contain
+      #     position: center
+      #     color: '#666'
 
       # - title: Lunch & Learn ☕️
       #   content: 'Share your knowledge with the group and explore exciting new topics together!'

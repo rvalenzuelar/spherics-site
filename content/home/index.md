@@ -8,13 +8,16 @@ sections:
   - block: hero
     content:
       title: |
-        Spherics-Lab at Universidad de O'Higgins
+        Spheric-Lab at Universidad de O'Higgins
       image:
-        filename: welcome.jpg
+        filename: anim.0071_edit.png
+        # parallax: true
+        # position: left
+        # object-fit: cover
       text: |
         <br>
         
-        Spherics-Lab is part of the Engineerig Sciences Institute at Universidad de O'Higgins. The Lab focuses on using computational tools to study atmospheric, meteorological and climatological phenomena. We work with data from automatic weather stations and remote-sensed instruments from satellite and ground-based platforms. Also, we run state-of-the-art numerical simulation models and use model outputs from other research groups. The Spherics-Lab aims to understand global and local patterns in the atmospheric system linked to current and future Earth climate. 
+        Spheric-Lab is part of the Institute of Engineerig Sciences at Universidad de O'Higgins in Rancagua, Chile. The Lab focuses on using computational tools to study atmospheric, meteorological, and climatological phenomena. We work with data from automatic weather stations and remote-sensed instruments from satellite and ground-based platforms. Also, we run state-of-the-art numerical simulation models and use model outputs from other research groups. The Spheric-Lab aims to understand global and local patterns in the atmospheric system linked to current and future Earth climate. 
   
   # - block: collection
   #   content:
