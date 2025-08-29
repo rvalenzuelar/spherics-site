@@ -24,7 +24,10 @@ main:
   #   weight: 50 
   - name: Data
     url: data
-    weight: 40  
+    weight: 40
+  - name: Videos
+    url: videos
+    weight: 40     
   - name: Links
     url: links
     weight: 60             
