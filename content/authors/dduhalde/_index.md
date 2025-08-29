@@ -14,7 +14,7 @@ role: Civil Computer Engineer
 
 # Organizations/Affiliations
 organizations:
-  - name: UOH
+  - name: UAI
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -74,4 +74,4 @@ user_groups:
   - Grad Students
 ---
 
-Diego is a Civil Computer Engineer from Universidad Adolfo Ibañez and will pursue a Master degree in Data Science in the same University. Along with the participation of Cristian Martinez-Villalobos (UAI), Diego will study atmospheric water vapor time series and develop a machine learning approach to make short-term forecast of precipitation.
+Diego is a Civil Computer Engineer from Universidad Adolfo Ibañez and currently student of the Master in Data Science at the same University. Along with the guidance of Cristian Martinez-Villalobos, academic at UAI, Diego will study atmospheric water vapor time series and develop a machine learning approach to make short-term forecasts of precipitation.

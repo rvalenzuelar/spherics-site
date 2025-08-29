@@ -10,7 +10,7 @@ last_name: Gonzalez
 superuser: false
 
 # Role/position
-role: Civil Geological Engineer 
+role: Civil Geological Engineer
 
 # Organizations/Affiliations
 organizations:
