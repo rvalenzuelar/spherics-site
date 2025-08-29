@@ -71,7 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergrad Students
+  - Grad Students
 ---
 
 Diego is a Civil Computer Engineer from Universidad Adolfo Ibañez and will pursue a Master degree in Data Science in the same University. Along with the participation of Cristian Martinez-Villalobos (UAI), Diego will study atmospheric water vapor time series and develop a machine learning approach to make short-term forecast of precipitation.
