@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Samara Gonzalez
+title: Diego Duhalde
 
 # Full Name (for SEO)
-first_name: Samara
-last_name: Gonzalez
+first_name: Diego
+last_name: Duhalde
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Civil Geological Engineer 
+role: Civil Computer Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -72,9 +72,6 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Undergrad Students
-  - Grad Students
 ---
 
-Samara got its professional title of Civil Geological Engineer by studying the chemical composition and physical characteristics of particulate matter collected in a high-vol sampler during spring of 2023 in Rancagua, identifying large-scale transport and local sources.
-
-Now she is student of the Master in Environmental and Earth Science program, where she will relate particle matter morphology with diurnal meteolorgical variations.
+Diego is a Civil Computer Engineer from Universidad Adolfo Ibañez and will pursue a Master degree in Data Science in the same University. Along with the participation of Cristian Martinez-Villalobos (UAI), Diego will study atmospheric water vapor time series and develop a machine learning approach to make short-term forecast of precipitation.

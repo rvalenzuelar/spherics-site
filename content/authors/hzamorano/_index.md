@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Samara Gonzalez
+title: Hernan Zamorano
 
 # Full Name (for SEO)
-first_name: Samara
-last_name: Gonzalez
+first_name: Hernan
+last_name: Zamorano
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Civil Geological Engineer 
+role: Civil Computer Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -72,9 +72,6 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Undergrad Students
-  - Grad Students
 ---
 
-Samara got its professional title of Civil Geological Engineer by studying the chemical composition and physical characteristics of particulate matter collected in a high-vol sampler during spring of 2023 in Rancagua, identifying large-scale transport and local sources.
-
-Now she is student of the Master in Environmental and Earth Science program, where she will relate particle matter morphology with diurnal meteolorgical variations.
+Hernan is a Civil Computer Engineer at UOH working on understanding the performance of a recently release hybrid AI model called NeuralGCM. Hernan will be examining the NeuralGCM skill in forecasting temperature over South America.
