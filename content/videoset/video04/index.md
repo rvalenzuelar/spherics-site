@@ -4,5 +4,7 @@ summary: ERA5 wind, temperature, and specific rain content associated to Atmosph
 tags:
   - video
 date: 2025-08-29
-external_link: https://youtu.be/MypaT96F92Y
+image:
+  preview_only: true
 ---
+{{< youtube MypaT96F92Y>}}

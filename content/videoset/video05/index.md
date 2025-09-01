@@ -4,5 +4,7 @@ summary: ERA5 specific humidity and melting layer hight associated to Atmospheri
 tags:
   - video
 date: 2025-08-29
-external_link: https://youtu.be/qxn093-XnVg
+image:
+  preview_only: true
 ---
+{{< youtube qxn093-XnVg>}}

@@ -8,7 +8,9 @@ sections:
       filters:
         folders:
           - videoset
-    design:
-      spacing:
-        padding: ['3rem', '6rem', '1rem', '6rem']
+#     design:
+#       spacing:
+#         padding: ['3rem', '6rem', '1rem', '6rem']
+
+# view: compact
 ---

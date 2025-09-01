@@ -4,5 +4,7 @@ summary: ERA5 zonal component of the integrated water vapor flux (IVT) during an
 tags:
   - video
 date: 2025-08-29
-external_link: https://youtu.be/1VAd3WWHPX0
+image:
+  preview_only: true
 ---
+{{< youtube 1VAd3WWHPX0>}}
