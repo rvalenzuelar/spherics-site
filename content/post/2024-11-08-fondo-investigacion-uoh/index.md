@@ -5,7 +5,7 @@ date: 2024-11-08
 
 Se encuentra abierta la III Convocatoria del Fondo de Investigación para Estudiantes de Pregrado UOH, iniciativa de la Dirección de Investigación, Vicerrectoría de Investigación y Postgrado, cuyo objetivo es promover que estudiantes de pregrado adquieran, en el marco de su formación universitaria, competencias asociadas a una experiencia en investigación a través del desarrollo de actividades propias de este ámbito, bajo la supervisión de un/a investigador/a adscrito/a a alguno de los Institutos (académico/a y/o postdoctorante). 
 
-Spherics-Lab busca un estudiante para trabajar en alguno de estos temas bajo la tutela del profesor Raúl Valenzuela:
+SphericLab busca un estudiante para trabajar en alguno de estos temas bajo la tutela del profesor Raúl Valenzuela:
 
 * Entender el comportamiento del vapor de agua atmosférico y la lluvia en Rancagua partir de observaciones GPS.
 * Estudiar Ríos Atmosféricos en el futuro a partir de proyecciones climáticas en CMIP6.

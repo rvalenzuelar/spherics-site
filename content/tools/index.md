@@ -7,7 +7,7 @@ sections:
     id: projects
     content:
       title: Tools
-      subtitle: Spherics-Lab makes extensive use of the following toolset
+      subtitle: SphericLab makes extensive use of the following toolset
     #   text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
       filters:
         # Folders to display content from
