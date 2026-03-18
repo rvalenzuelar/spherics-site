@@ -71,7 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Undergrad Students
 ---
 
-Anibal graduted from the Civil Electrical Engineering program at UOH. He developed a low-cost weather station using an Arduino-based platform.
+Tamar is working in her undergrad thesis from the Civil Geological Engineering program at UOH. She will be using GNSS-derived water vapor and ERA5 data to understand the limits of the Water-Vapor-Precipitatoin relationship in the Power Law and Logistic coupling regimes.
