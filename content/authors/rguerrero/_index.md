@@ -71,7 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergrad Students
+  - Alumni
 ---
 
 Rodrigo is applying a bright band detection algorithm proposed by [Garcia-Benadi et al (2021)](https://www.mdpi.com/2072-4292/13/21/4323) to MRR data captured in Rancagua and assesing its performance. He is also comparing bright band height with secondary sources, such as ERA5 reanalysis.
