@@ -39,6 +39,10 @@ main:
     parent: apps
     url: https://escala-ef.netlify.app/
     weight: 20
+  - name: Chile GNSS Explorer
+    parent: apps
+    url: https://chile-gnss-explorer.netlify.app/
+    weight: 30
   - name: Links
     url: links
     weight: 60
