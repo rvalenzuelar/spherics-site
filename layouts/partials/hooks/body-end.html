@@ -1,9 +1,11 @@
 <script>
-  // Open external navbar links (e.g. Apps menu) in a new tab
-  document.querySelectorAll('#navbar-main a[href^="http"]').forEach(function (a) {
-    if (a.hostname !== window.location.hostname) {
-      a.target = '_blank';
-      a.rel = 'noopener noreferrer';
-    }
-  });
+  // Open external navbar links (e.g. Apps menu) in a new tab.
+  // The theme's navbar click handler navigates via data-target, so intercept in the capture phase.
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('#navbar-main a[href^="http"]');
+    if (!a || a.hostname === window.location.hostname) return;
+    e.preventDefault();
+    e.stopImmediatePropagation();
+    window.open(a.href, '_blank', 'noopener,noreferrer');
+  }, true);
 </script>
