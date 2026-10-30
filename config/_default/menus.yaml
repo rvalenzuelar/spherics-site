@@ -28,6 +28,17 @@ main:
   - name: Videos
     url: videos
     weight: 40
+  - name: Apps
+    identifier: apps
+    weight: 50
+  - name: Target Forecast Tracker
+    parent: apps
+    url: https://target-forecast-tracker.netlify.app/
+    weight: 10
+  - name: Escala EF
+    parent: apps
+    url: https://escala-ef.netlify.app/
+    weight: 20
   - name: Links
     url: links
     weight: 60
